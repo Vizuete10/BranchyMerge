@@ -7,6 +7,7 @@ public class Clase1 {
 		System.out.println("Hola Mundo");
 		
 		System.out.println("Otra línea de código");
+		
 
 	}
 
