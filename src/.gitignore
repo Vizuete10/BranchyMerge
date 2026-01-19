@@ -1,0 +1,5 @@
+# Archivos de Eclipse que generalmente se ignoran
+bin/
+*.class
+.metadata/
+*.jar
